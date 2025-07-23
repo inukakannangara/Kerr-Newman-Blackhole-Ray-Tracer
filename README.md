@@ -1,4 +1,6 @@
-Renders an accurate picture of what a kerr-newman blackhole would look like. 
+Renders an accurate picture of what a Kerr-Newman blackhole would look like. 
+
+
 Use WASD to move around. Hold right mouse button while moving mouse to look around. 
 
 <img width="1289" height="906" alt="Screenshot 2025-07-23 210453" src="https://github.com/user-attachments/assets/4a634136-8cbd-41f4-aa7c-6cb2a854d946" />
